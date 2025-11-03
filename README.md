@@ -1,12 +1,12 @@
 # GenomicsAnalysis
 
-##Brief Project Description 
+## Brief Project Description 
 
 
-##Software dependency 
+## Software dependency 
 Docker
 
-##Required Input files 
+## Required Input files 
 CSV,FASTQ,JSON
 
-##Expected Output files
+## Expected Output files
